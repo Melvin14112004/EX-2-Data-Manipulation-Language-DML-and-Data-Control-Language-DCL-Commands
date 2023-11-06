@@ -160,3 +160,5 @@ SELECT designation AS job, COUNT(*) AS num_employees FROM manager GROUP BY desig
 ### OUTPUT:
 
 ![image](https://github.com/BharathCSEIOT/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/122793480/e16c9bf7-c965-4e1b-aa78-cd0481c32024)
+## RESULT:
+Queries Executed Successfully.
